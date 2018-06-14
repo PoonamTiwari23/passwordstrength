@@ -1,13 +1,14 @@
 import string
 import re
 
-__author__ = "Shubham Jante"
+# Private Variables
+__author__ = "Vanisha"
 __credits__ = "Passwordmeter"
-__version__ = "1.0"
+__version__ = "1.2"
 __maintainer__ = "Shubham Jante"
 __email__ = "shubhamjante1995@gmail.com"
-__status__ = "In Development"
-__date__ = "2018/01/27"
+__status__ = "Deployed"
+__date__ = "2018/06/14"
 
 
 class Password_Strength:
